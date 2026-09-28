@@ -2154,7 +2154,8 @@ function render() {
                             </td>
 
 
-                            <td style="text-align: center;">
+                            <td>
+
                                 ${escapeHTML(
                                     item.nama
                                 ).replace(
@@ -2165,7 +2166,8 @@ function render() {
                             </td>
 
 
-                            <tdstyle="text-align: center;">
+                            <td>
+
                                 ${escapeHTML(
                                     item.merek
                                 )}
