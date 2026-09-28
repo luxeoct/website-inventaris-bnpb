@@ -2175,8 +2175,7 @@ function render() {
                             </td>
 
 
-                            <td>
-
+                            <td style="text-align: center;">
                                 ${escapeHTML(
                                     item.satuan
                                 )}
@@ -2184,8 +2183,7 @@ function render() {
                             </td>
 
 
-                            <td>
-
+                            <td style="text-align: center;">
                                 ${escapeHTML(
                                     item.pengajuan
                                 )}
